@@ -1,3 +1,16 @@
+ 
+File Name                    Employee.Details
+
+File Generation Date         20171205
+
+Number of Records on Input   456
+
+Number of Records on Trailer 458
+
+
+INPUT DATA 
+ 
+ 
  REG NO    ZIP CODE  LOC ID      EMP ID      LASTNAME        FIRSTNAME
  -------   --------  --------   ---------   ----------       ---------
 
@@ -22,3 +35,8 @@ REG NO    ZIP CODE  LOC ID      EMP ID      LASTNAME        FIRSTNAME
 ERROR NUM 13: LOC ID is invalid:
 ERROR NUM 11: ZIP ID is invalid: "45693"
 ERROR NUM 09: EMP LAST NAME DOESNOT EXIST
+
+
+END
+Records Accepted:      23 
+DATA VALIDATION STATUS:  File Rejected - Records Rejected Exceeded Threshold
