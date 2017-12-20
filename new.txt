@@ -1,0 +1,24 @@
+ REG NO    ZIP CODE  LOC ID      EMP ID      LASTNAME        FIRSTNAME
+ -------   --------  --------   ---------   ----------       ---------
+
+ 203         01412   01100      10785643I       MCDONALD        CHRIS
+
+ERROR NUM 13: LOC ID is invalid:
+ 
+REG NO    ZIP CODE  LOC ID      EMP ID      LASTNAME        FIRSTNAME
+ -------   --------  --------   ---------   ----------       ---------
+
+ 158        012451    0011      107508257A    MESREAU		ALEX
+
+ERROR NUM 13: LOC ID is invalid:
+ERROR NUM 11: ZIP ID is invalid: "012451"
+ERROR NUM 10: STATE is invalid: DR
+
+REG NO    ZIP CODE  LOC ID      EMP ID      LASTNAME        FIRSTNAME
+ -------   --------  --------   ---------   ----------       ---------
+
+446	   45693     0000	57558655    KATE	      WILSON
+
+ERROR NUM 13: LOC ID is invalid:
+ERROR NUM 11: ZIP ID is invalid: "45693"
+ERROR NUM 09: EMP LAST NAME DOESNOT EXIST
